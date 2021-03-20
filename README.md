@@ -1,0 +1,4 @@
+- @WesaPerttola
+- Doctoral Student
+- University of Helsinki/Archaeology
+- wesa.perttola@helsinki.fi
